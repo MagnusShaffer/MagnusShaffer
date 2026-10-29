@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Magnus Shaffer
 
-<!--
-**MagnusShaffer/MagnusShaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free browser tools — no installs, no sign-up walls.
 
-Here are some ideas to get you started:
+## Free tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tool | What it does | Link |
+|------|----------------|------|
+| **Pixtern** | Turn photos into Perler bead, pixel art, Minecraft, crochet & kinusaiga patterns | [pixtern.com](https://pixtern.com) |
+| **Grid & Line** | Free printable lined/graph paper & handwriting worksheets | [gridandline.com](https://gridandline.com) |
+| **PuzzleTogether** | Multiplayer jigsaw puzzles in the browser — invite friends by link | [puzzletogether.net](https://www.puzzletogether.net) |
+
+## Repos
+
+- [pixtern](https://github.com/MagnusShaffer/pixtern)
+- [gridandline](https://github.com/MagnusShaffer/gridandline)
+- [puzzletogether](https://github.com/MagnusShaffer/puzzletogether)
